@@ -1,2 +1,4 @@
 # Hello-World
-First repository, just for figuring things out
+Second draft of the README, things are going strong!
+
+- Here's a second commit for giggles
